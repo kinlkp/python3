@@ -1,0 +1,10 @@
+tools/__pycache__/*.pyc
+/__pycache__/*.pyc
+*.txt
+!requirements.txt
+*.json
+*.bak
+dist/*
+build/*
+*.spec
+venv/
